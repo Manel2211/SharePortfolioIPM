@@ -11,6 +11,7 @@ package tp10.metier;
 public abstract class Action {
 
     private String nom;
+    
 
     /**
      * Get the value of nom
